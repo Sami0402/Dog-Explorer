@@ -1,4 +1,4 @@
-# dog_explorer
+# Dog Explorer
 
 ## Overview
 
